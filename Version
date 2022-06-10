@@ -1,0 +1,3 @@
+local function Version()
+	return "BetaV.1"
+end
